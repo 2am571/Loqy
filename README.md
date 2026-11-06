@@ -1,0 +1,2 @@
+# Loqy
+Website Loqy
