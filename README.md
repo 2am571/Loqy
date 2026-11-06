@@ -1,2 +1,2 @@
 # Loqy
-Website Loqy
+loqysetup
